@@ -1,4 +1,4 @@
-# vlan-lab
+# vlan-lab 4.4.8 troubleshoot inter-vlan routing
 We must locate the misconfiguration for the lab troubleshooting:
 1/ G0/1.10 subinterface is administratively down.
 2/PC3 is configured with the wrong default gateway address.
